@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/iamhands0me?ext=activity)
+<img src="https://leetcard.jacoblin.cool/iamhands0me?ext=activity" alt="iamhands0me-tech-leetcode" />
 
 <!--
 **iamhands0me/iamhands0me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
